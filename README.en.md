@@ -1,8 +1,14 @@
-# Arknights Event UI Animation
+# Arknights Event Background Animation
+
+Recreated by **GPT-6 Astra**.
 
 [简体中文](README.md)
 
 An unofficial browser recreation of the event UI for **直到大地变成一颗酸橙**.
+
+## Animation Preview
+
+### 直到大地变成一颗酸橙
 
 ![Home preview](直到大地变成一颗酸橙/media/preview.gif)
 
