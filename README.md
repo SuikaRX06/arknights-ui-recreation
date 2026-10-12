@@ -19,4 +19,4 @@
 
 参考：[原版演示](https://www.bilibili.com/video/BV1mQ4R6gEfj/) · [复刻项目视频](https://www.bilibili.com/video/BV14aYL6GEbx/) · [arknights-motion-library](https://github.com/Ulchemist/arknights-motion-library)
 
-原创代码采用 [MIT 许可](直到大地变成一颗酸橙/LICENSE)。游戏素材与字体的权利及许可见 [项目说明末尾](直到大地变成一颗酸橙/README.md)。本项目与游戏官方无隶属关系。
+原创代码采用 [MIT 许可](LICENSE)。游戏素材与字体的权利及许可见 [项目说明末尾](直到大地变成一颗酸橙/README.md)。本项目与游戏官方无隶属关系。
