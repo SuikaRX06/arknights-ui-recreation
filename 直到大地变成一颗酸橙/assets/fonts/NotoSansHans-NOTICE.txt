@@ -1,0 +1,10 @@
+NotoSansHans-Medium.otf
+Version 1.000;PS 1;hotconv 1.0.78;makeotf.lib2.5.61930
+Copyright © 2014 Adobe Systems Incorporated. All Rights Reserved.
+
+The font's embedded name-table entries 13 and 14 specify the Apache License,
+Version 2.0. The accompanying Apache-2.0.txt contains that license.
+This font was extracted from the locally installed game client and has not
+been modified by this project. Its embedded copyright and license metadata
+are preserved. The OFL file for the later Noto CJK font in the research
+workspace does not describe this version and is not included in this package.

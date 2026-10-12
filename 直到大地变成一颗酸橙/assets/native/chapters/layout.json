@@ -1,0 +1,228 @@
+{
+  "coordinates": {
+    "width": 1280,
+    "height": 720
+  },
+  "background": {
+    "id": "3424588707682095776",
+    "name": "img_back_decor",
+    "source": "Sprite_img_back_decor_3424588707682095776.png",
+    "url": "assets/native/chapters/img_back_decor.png",
+    "rect": {
+      "left": 739.0999450683594,
+      "top": 567.6000061035156,
+      "width": 577.0,
+      "height": 150.0
+    },
+    "sha256": "3dceee17dd6e7570137fa7b54867949578312cd485f5c625af33e3f65a671fa8"
+  },
+  "tabs": [
+    {
+      "route": "normal",
+      "normal": {
+        "id": "4856662537917175862",
+        "name": "img_normal_unselected",
+        "source": "Sprite_img_normal_unselected_4856662537917175862.png",
+        "url": "assets/native/chapters/img_normal_unselected.png",
+        "rect": {
+          "left": 809.3619842529297,
+          "top": 569.5075778961182,
+          "width": 133.0,
+          "height": 116.0
+        },
+        "sha256": "455cc65c8586929b9f08a0b81fff94aad76abdbef49b70241f5f457bdf9c5bd2"
+      },
+      "selected": {
+        "id": "7628581691667455175",
+        "name": "img_normal_selected",
+        "source": "Sprite_img_normal_selected_7628581691667455175.png",
+        "url": "assets/native/chapters/img_normal_selected.png",
+        "rect": {
+          "left": 809.3619842529297,
+          "top": 569.517578125,
+          "width": 133.0,
+          "height": 116.0
+        },
+        "sha256": "fceb70d01bac3a6775827067a066b091a3da67cca9d1d38b1292f6d56433ece9"
+      },
+      "hit": {
+        "left": 805.8619842529297,
+        "top": 567.5075778961182,
+        "width": 140.0,
+        "height": 120.0
+      },
+      "colors": {
+        "m_NormalColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "m_HighlightedColor": {
+          "r": 0.9607843160629272,
+          "g": 0.9607843160629272,
+          "b": 0.9607843160629272,
+          "a": 1.0
+        },
+        "m_PressedColor": {
+          "r": 0.7843137383460999,
+          "g": 0.7843137383460999,
+          "b": 0.7843137383460999,
+          "a": 1.0
+        },
+        "m_SelectedColor": {
+          "r": 0.9607843160629272,
+          "g": 0.9607843160629272,
+          "b": 0.9607843160629272,
+          "a": 1.0
+        },
+        "m_DisabledColor": {
+          "r": 0.7843137383460999,
+          "g": 0.7843137383460999,
+          "b": 0.7843137383460999,
+          "a": 0.501960813999176
+        },
+        "m_ColorMultiplier": 1.0,
+        "m_FadeDuration": 0.10000000149011612
+      }
+    },
+    {
+      "route": "ex",
+      "normal": {
+        "id": "2187803612456797808",
+        "name": "img_ex_unselected",
+        "source": "Sprite_img_ex_unselected_2187803612456797808.png",
+        "url": "assets/native/chapters/img_ex_unselected.png",
+        "rect": {
+          "left": 960.9619750976562,
+          "top": 575.0075778961182,
+          "width": 128.0,
+          "height": 108.0
+        },
+        "sha256": "816c160a41ad88a042b3b1bae29e742e513eebbce8990e3a48bc9b80bf18766c"
+      },
+      "selected": {
+        "id": "2733489423467901375",
+        "name": "img_ex_selected",
+        "source": "Sprite_img_ex_selected_2733489423467901375.png",
+        "url": "assets/native/chapters/img_ex_selected.png",
+        "rect": {
+          "left": 960.9619750976562,
+          "top": 576.1175785064697,
+          "width": 128.0,
+          "height": 108.0
+        },
+        "sha256": "edbe2cb903d4e138670b7c120b5a5bcc018e8361456e55106ce3911bb6be5e50"
+      },
+      "hit": {
+        "left": 954.9618761539459,
+        "top": 569.0075778961182,
+        "width": 137.48159790039062,
+        "height": 120.0
+      },
+      "colors": {
+        "m_NormalColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "m_HighlightedColor": {
+          "r": 0.9607843160629272,
+          "g": 0.9607843160629272,
+          "b": 0.9607843160629272,
+          "a": 1.0
+        },
+        "m_PressedColor": {
+          "r": 0.7843137383460999,
+          "g": 0.7843137383460999,
+          "b": 0.7843137383460999,
+          "a": 1.0
+        },
+        "m_SelectedColor": {
+          "r": 0.9607843160629272,
+          "g": 0.9607843160629272,
+          "b": 0.9607843160629272,
+          "a": 1.0
+        },
+        "m_DisabledColor": {
+          "r": 0.7843137383460999,
+          "g": 0.7843137383460999,
+          "b": 0.7843137383460999,
+          "a": 0.501960813999176
+        },
+        "m_ColorMultiplier": 1.0,
+        "m_FadeDuration": 0.10000000149011612
+      }
+    },
+    {
+      "route": "s",
+      "normal": {
+        "id": "-709384192720306664",
+        "name": "img_s_unselected",
+        "source": "Sprite_img_s_unselected_-709384192720306664.png",
+        "url": "assets/native/chapters/img_s_unselected.png",
+        "rect": {
+          "left": 1107.8619995117188,
+          "top": 569.8675785064697,
+          "width": 128.0,
+          "height": 114.0
+        },
+        "sha256": "b6df8076f68448b9d51697c43e0a42aec9d702e84b4a6bb68d61cac87d3ef44f"
+      },
+      "selected": {
+        "id": "-4901746245627849943",
+        "name": "img_s_selected",
+        "source": "Sprite_img_s_selected_-4901746245627849943.png",
+        "url": "assets/native/chapters/img_s_selected.png",
+        "rect": {
+          "left": 1107.8619995117188,
+          "top": 570.9775791168213,
+          "width": 128.0,
+          "height": 114.0
+        },
+        "sha256": "2d0ba6822df9fc8546a0cc4a36255a3a3422ed555e8987a267d3966d67fe14ef"
+      },
+      "hit": {
+        "left": 1101.8619005680084,
+        "top": 566.8675785064697,
+        "width": 137.48159790039062,
+        "height": 120.0
+      },
+      "colors": {
+        "m_NormalColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "m_HighlightedColor": {
+          "r": 0.9607843160629272,
+          "g": 0.9607843160629272,
+          "b": 0.9607843160629272,
+          "a": 1.0
+        },
+        "m_PressedColor": {
+          "r": 0.7843137383460999,
+          "g": 0.7843137383460999,
+          "b": 0.7843137383460999,
+          "a": 1.0
+        },
+        "m_SelectedColor": {
+          "r": 0.9607843160629272,
+          "g": 0.9607843160629272,
+          "b": 0.9607843160629272,
+          "a": 1.0
+        },
+        "m_DisabledColor": {
+          "r": 0.7843137383460999,
+          "g": 0.7843137383460999,
+          "b": 0.7843137383460999,
+          "a": 0.501960813999176
+        },
+        "m_ColorMultiplier": 1.0,
+        "m_FadeDuration": 0.10000000149011612
+      }
+    }
+  ]
+}

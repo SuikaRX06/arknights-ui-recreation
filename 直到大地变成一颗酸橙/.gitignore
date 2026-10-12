@@ -1,0 +1,21 @@
+# Local research, original bundles, extraction environments and historical copies.
+/reference/
+/tools/python-deps/
+/tools/vendor/
+__pycache__/
+*.pyc
+node_modules/
+.env
+.env.*
+*.log
+# Generated packages and clean-room validation copies.
+/dist/
+# Unused source artwork retained locally; runtime files live in assets/native.
+/assets/backgrounds/
+/assets/GIF/
+/assets/PNG/
+/assets/UI/
+/assets/fonts/NotoSansCJKsc-Medium.otf
+/assets/fonts/PrincessSofia-Regular.ttf
+Thumbs.db
+.DS_Store

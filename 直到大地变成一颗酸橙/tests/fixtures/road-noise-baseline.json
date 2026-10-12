@@ -1,0 +1,3932 @@
+{
+  "source": "Exact 2026-10-07 pre-curl function, retained in reference/road-noise-before-curl.mjs",
+  "samples": [
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.047562500648200515,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0.0002955246474854656,
+        -0.000505329934597596
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.09512500129640103,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0.0011783384293788048,
+        -0.002014890082836958
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.14268750194460156,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0.0026428011048363815,
+        -0.004519035961389371
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.19025000259280206,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0.0046832724330174115,
+        -0.00800812308692232
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.23781250324100256,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0.007294112173076358,
+        -0.01247250697610804
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.2853750038892031,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0.010469680084172438,
+        -0.017902543145614968
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.3329375045374036,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0.014204335925461064,
+        -0.024288587112113437
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.3805000051856041,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0.01849243945609955,
+        -0.03162099439227473
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.4280625058338046,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0.023328350435246163,
+        -0.03989012050276539
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.4756250064820051,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0.028706428622056315,
+        -0.04908632096025764
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.5231875071302057,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0.03462103377568827,
+        -0.05919995128142183
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.5707500077784062,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0.0410665256552984,
+        -0.0702213669829264
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.6183125084266067,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0.04803726402004401,
+        -0.08214092358144355
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.6658750090748072,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0.05552760862908146,
+        -0.09494897659363985
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.7134375097230077,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0.06353191924156808,
+        -0.10863588153618753
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.7610000103712082,
+      "life": 0.7610000103712082,
+      "seed": 768843,
+      "random": 0.13,
+      "expected": [
+        0.07204455561666119,
+        -0.123191993925755
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.04118750039488077,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0.0003440756336722276,
+        -0.0005883492931630155
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.08237500078976154,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0.0013725130318779134,
+        -0.0023469173435643554
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.1235625011846423,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0.003079627940396137,
+        -0.005265984407557707
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.16475000157952308,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0.005459736105010402,
+        -0.009335830741510034
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.20593750197440386,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0.008507153271499786,
+        -0.014546736601780925
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.2471250023692846,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0.012216195185646324,
+        -0.020888982244731444
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.28831250276416537,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0.016581177593233513,
+        -0.028352847926722654
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.32950000315904615,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0.021596416240040436,
+        -0.036928613904112666
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.37068750355392693,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0.027256226871849126,
+        -0.0466065604332655
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.4118750039488077,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0.03355492523444013,
+        -0.057376967770543685
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.45306250434368844,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0.04048682707359548,
+        -0.06923011617230534
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.4942500047385692,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0.04804624813509868,
+        -0.08215628589491153
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.53543750513345,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0.05622750416472735,
+        -0.09614575719472629
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.5766250055283307,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0.06502491090826348,
+        -0.1111888103281062
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.6178125059232116,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0.0744327841114921,
+        -0.1272757255514168
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.6590000063180923,
+      "life": 0.6590000063180923,
+      "seed": 768843,
+      "random": 0.47,
+      "expected": [
+        0.0844454395201893,
+        -0.1443967831210147
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.03443750012665987,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0.0003495214161620622,
+        -0.0005976612640365267
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.06887500025331975,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0.0013948685068641074,
+        -0.0023851439037146168
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.10331250037997962,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0.0031312155354138527,
+        -0.005354196190363465
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.1377500005066395,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0.005553736765136156,
+        -0.009496566395333694
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.17218750063329935,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0.00865760645934088,
+        -0.014804002789963067
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.20662500075995924,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0.012437998881344309,
+        -0.0212682536455915
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.24106250088661912,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0.01689008829446059,
+        -0.028881067233561035
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.275500001013279,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0.022009048962010294,
+        -0.037634191825211584
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.30993750113993884,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0.02779005514730329,
+        -0.04751937569188305
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.3443750012665987,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0.034228281113660136,
+        -0.05852836710492179
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.3788125013932586,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0.04131890112439285,
+        -0.07065291433566341
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.4132500015199185,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0.04905708944281556,
+        -0.0838847656554521
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.44768750164657833,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0.05743802033224886,
+        -0.09821566933562137
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.48212500177323825,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0.06645686805600474,
+        -0.11363737364751963
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.516562501899898,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0.07610880687739949,
+        -0.13014162686248687
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_left/left_cartoon",
+      "age": 0.551000002026558,
+      "life": 0.551000002026558,
+      "seed": 768843,
+      "random": 0.83,
+      "expected": [
+        0.0863890110597494,
+        -0.14772017725186082
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.047562500648200515,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        -0.0005147392406505706,
+        0.0007840804709295322
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.09512500129640103,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        -0.002052407586063279,
+        0.0031263454959986237
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.14268750194460156,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        -0.004603180971436275,
+        0.007011830493626592
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.19025000259280206,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        -0.008157235331959152,
+        0.012425570882230851
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.23781250324100256,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        -0.012704746602829107,
+        0.019352602080234524
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.2853750038892031,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        -0.01823589071923859,
+        0.027777959506055026
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.3329375045374036,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        -0.024740843616383845,
+        0.037686678578112615
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.3805000051856041,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        -0.032209781229457314,
+        0.049063794714825665
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.4280625058338046,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        -0.04063287949365431,
+        0.06189434333461541
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.4756250064820051,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        -0.05000031434416821,
+        0.07616335985589923
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.5231875071302057,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        -0.06030226171619242,
+        0.09185587969709932
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.5707500077784062,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        -0.07152889754492128,
+        0.10895693827663311
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.6183125084266067,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        -0.08367039776555296,
+        0.12745157101292082
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.6658750090748072,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        -0.09671693831327609,
+        0.14732481332438277
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.7134375097230077,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        -0.11065869512328785,
+        0.1685617006294373
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.7610000103712082,
+      "life": 0.7610000103712082,
+      "seed": 13699,
+      "random": 0.13,
+      "expected": [
+        -0.12548584413078165,
+        0.1911472683465046
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.04118750039488077,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        -0.0005993044299675051,
+        0.0009128950399952286
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.08237500078976154,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        -0.0023906172355626205,
+        0.0036415259219483706
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.1235625011846423,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        -0.005364037690308017,
+        0.008170811288814299
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.16475000157952308,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        -0.009509665067735217,
+        0.014485669783544933
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.20593750197440386,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        -0.014817598641375744,
+        0.022571020049099572
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.2471250023692846,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        -0.02127793768475522,
+        0.03241178072842572
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.28831250276416537,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        -0.02888078147140517,
+        0.04399287046447971
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.32950000315904615,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        -0.03761622927485269,
+        0.05729920790021494
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.37068750355392693,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        -0.047474380368626355,
+        0.07231571167858777
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.4118750039488077,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        -0.05844533402625768,
+        0.08902730044255011
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.45306250434368844,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        -0.07051918952127376,
+        0.1074188928350539
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.4942500047385692,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        -0.08368604612720319,
+        0.12747540749905692
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.53543750513345,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        -0.09793600311757894,
+        0.1491817630775097
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.5766250055283307,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        -0.1132591597659237,
+        0.17252287821336845
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.6178125059232116,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        -0.12964561534577193,
+        0.19748367154958674
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.6590000063180923,
+      "life": 0.6590000063180923,
+      "seed": 13699,
+      "random": 0.47,
+      "expected": [
+        -0.14708546913065074,
+        0.2240490617291193
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.03443750012665987,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        -0.0006087897908955637,
+        0.0009273436883087841
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.06887500025331975,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        -0.0024295555790035906,
+        0.003700839050325529
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.10331250037997962,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        -0.005453891987449657,
+        0.008307682531676179
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.1377500005066395,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        -0.009673393639370054,
+        0.014735070577988828
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.17218750063329935,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        -0.01507965515788607,
+        0.022970199634895848
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.20662500075995924,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        -0.021664271166138283,
+        0.03300026614802103
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.24106250088661912,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        -0.02941883628724583,
+        0.044812466562998914
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.275500001013279,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        -0.038334945144345024,
+        0.05839399732545115
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.30993750113993884,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        -0.04840419236056571,
+        0.07373205488101439
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.3443750012665987,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        -0.05961817255903774,
+        0.09081383567531032
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.3788125013932586,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        -0.07196848036288671,
+        0.10962653615397128
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.4132500015199185,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        -0.08544671039524675,
+        0.13015735276262538
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.44768750164657833,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        -0.10004445727924346,
+        0.15239348194690286
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.48212500177323825,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        -0.11575331563801096,
+        0.17632212015243176
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.516562501899898,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        -0.13256488009468126,
+        0.20193046382483595
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/root_right/right_cartoon",
+      "age": 0.551000002026558,
+      "life": 0.551000002026558,
+      "seed": 13699,
+      "random": 0.83,
+      "expected": [
+        -0.15047074527237783,
+        0.22920570940975207
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.053250001035630705,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        0.3556112269747921
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.10650000207126141,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        1.3019405674650584
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.1597500031068921,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        2.658231510819638
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.21300000414252282,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        4.243727546387373
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.2662500051781535,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        5.877672163517098
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.3195000062137842,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        7.379308851557656
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.3727500072494149,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        8.567881099857882
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.42600000828504564,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        9.262632397766616
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.47925000932067635,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        9.308790132381557
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.532500010356307,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        8.81938353185575
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.5857500113919377,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        7.949600367919839
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.6390000124275684,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        6.835090934006996
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.6922500134631991,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        5.611505523550404
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.7455000144988299,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        4.414494429983233
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.7987500155344606,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        3.379707946738673
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.8520000165700913,
+      "life": 0.8520000165700913,
+      "seed": 471947,
+      "random": 0.13,
+      "expected": [
+        0,
+        2.642796367249895
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.061750001795589926,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        0.3170152518696581
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.12350000359117985,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        1.1417801027418844
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.18525000538676978,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        2.284873195511552
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.2470000071823597,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        3.5568731730735434
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.30875000897794963,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        4.768358678322729
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.37050001077353956,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        5.729908354153987
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.4322500125691295,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        6.252100843462195
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.4940000143647194,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        6.195441423173878
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.5557500161603093,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        5.697672470092706
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.6175000179558993,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        4.909685642955839
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.6792500197514892,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        3.9736338444789623
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.7410000215470791,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        3.03166997737776
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.802750023342669,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        2.2259469443679114
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.864500025138259,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        1.6986176481651012
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.926250026933849,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        1.5723539201928194
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.9880000287294388,
+      "life": 0.9880000287294388,
+      "seed": 471947,
+      "random": 0.47,
+      "expected": [
+        0,
+        1.5946710491342813
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.07075000260025263,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.004683994123362371
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.14150000520050526,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.01656670888510202
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.2122500078007579,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.03239424287269771
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.2830000104010105,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.04891269467362821
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.3537500130012632,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.06286816287537234
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.4245000156015158,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.0710067460654088
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.4952500182017684,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.0706870139744225
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.566000020802021,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.06376543098144934
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.6367500234022737,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.0528464135881362
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.7075000260025264,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.040371880372248585
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.7782500286027789,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.028783749911552033
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.8490000312030316,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.02052394078381192
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.9197500338032842,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.01794941662562677
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 0.9905000364035368,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.018228979886668013
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 1.0612500390037896,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.01882233451560598
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left",
+      "age": 1.132000041604042,
+      "life": 1.132000041604042,
+      "seed": 471947,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.019577278436816867
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.053250001035630705,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        0.2365034186343921
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.10650000207126141,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        0.8658708491397413
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.1597500031068921,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        1.7678880534192964
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.21300000414252282,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        2.8223407933763145
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.2662500051781535,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        3.909014830914047
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.3195000062137842,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        4.907695927935751
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.3727500072494149,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        5.69816984634468
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.42600000828504564,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        6.1602223480440825
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.47925000932067635,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        6.063656898663714
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.532500010356307,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        4.700959980754428
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.5857500113919377,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        2.2791478607882256
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.6390000124275684,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        -0.8240766746842444
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.6922500134631991,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        -4.231010839112312
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.7455000144988299,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        -7.563951845945335
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.7987500155344606,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        -10.445196908632632
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.8520000165700913,
+      "life": 0.8520000165700913,
+      "seed": 650187,
+      "random": 0.13,
+      "expected": [
+        0,
+        -12.497043240623555
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.061750001795589926,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        0.21083471257146863
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.12350000359117985,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        0.7593542530262295
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.18525000538676978,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        1.5195817254748198
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.2470000071823597,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        2.365540234027777
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.30875000897794963,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        3.171252882795634
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.37050001077353956,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        3.8107427758889294
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.4322500125691295,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        4.158033017418199
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.4940000143647194,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        3.9071120906511854
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.5557500161603093,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        2.5211311548283177
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.6175000179558993,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        0.327071615094124
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.6792500197514892,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        -2.279257967337871
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.7410000215470791,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        -4.902049031254136
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.802750023342669,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        -7.145493015441164
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.864500025138259,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        -8.61378135868543
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.926250026933849,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        -8.926439197065486
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.9880000287294388,
+      "life": 0.9880000287294388,
+      "seed": 650187,
+      "random": 0.47,
+      "expected": [
+        0,
+        -8.156814542458655
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.07075000260025263,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.0031151452457296434
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.14150000520050526,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.011017884109505735
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.2122500078007579,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.021544171281209074
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.2830000104010105,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.03252996145072034
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.3537500130012632,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.04181120930792035
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.4245000156015158,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.047223869542689784
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.4952500182017684,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.04442409163549664
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.566000020802021,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        0.025151732412216188
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.6367500234022737,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        -0.005251027445292421
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.7075000260025264,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        -0.03998494388079569
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.7782500286027789,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        -0.07225077283806018
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.8490000312030316,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        -0.0952492702608528
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.9197500338032842,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        -0.10224458303362412
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 0.9905000364035368,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        -0.09260361269268189
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 1.0612500390037896,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        -0.07214128742881988
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right",
+      "age": 1.132000041604042,
+      "life": 1.132000041604042,
+      "seed": 650187,
+      "random": 0.83,
+      "expected": [
+        0,
+        -0.0461064217373829
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.053250001035630705,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        0.1874598483141874,
+        0.4217525957716492
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.10650000207126141,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        0.6863157368999143,
+        1.5440930213030815
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.1597500031068921,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        1.4012821812219287,
+        3.152645233919028
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.21300000414252282,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        2.237073696744979,
+        5.033033190944222
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.2662500051781535,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        3.098404798933813,
+        6.970880849703389
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.3195000062137842,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        3.88999000325318,
+        8.751812167521262
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.3727500072494149,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        4.516543825167827,
+        10.161451101722571
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.42600000828504564,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        4.882780780142504,
+        10.985421609632049
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.47925000932067635,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        4.8955462821353875,
+        11.050945283398105
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.532500010356307,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        4.543288231436539,
+        10.558377975786584
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.5857500113919377,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        3.9172482035138128,
+        9.682977540227578
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.6390000124275684,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        3.115062617430948,
+        8.561270332804769
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.6922500134631991,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        2.234367892251688,
+        7.329782709601856
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.7455000144988299,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        1.3728004470397677,
+        6.125041026702515
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.7987500155344606,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        0.6279967008589368,
+        5.083571640190445
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.8520000165700913,
+      "life": 0.8520000165700913,
+      "seed": 419395,
+      "random": 0.13,
+      "expected": [
+        0.09759307277292761,
+        4.341900906149329
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.061750001795589926,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        0.022945689372281714,
+        0.17610698873038452
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.12350000359117985,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        0.08264249563531716,
+        0.6342769141240403
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.18525000538676978,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        0.1653800260083915,
+        1.2692832149847195
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.2470000071823597,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        0.25744788771079014,
+        1.975899330116178
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.30875000897794963,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        0.3451356879617982,
+        2.6488986983221667
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.37050001077353956,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        0.4147330339807011,
+        3.1830547584064406
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.4322500125691295,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        0.45252953298678417,
+        3.473140949172752
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.4940000143647194,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        0.4457674544523337,
+        3.450126962255867
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.5557500161603093,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        0.39657402885942844,
+        3.215467700449184
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.6175000179558993,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        0.3186990004772832,
+        2.8439933326230045
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.6792500197514892,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        0.2261910322433375,
+        2.402717872022748
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.7410000215470791,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        0.13309878709503112,
+        1.9586553318938311
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.802750023342669,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        0.05347092796980261,
+        1.5788197254816714
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.864500025138259,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        0.0013561178050919458,
+        1.3302250660316866
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.926250026933849,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        -0.007741787468922436,
+        1.2649096962390263
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.9880000287294388,
+      "life": 0.9880000287294388,
+      "seed": 419395,
+      "random": 0.47,
+      "expected": [
+        0.055930805493384986,
+        1.17011694505692
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.07075000260025263,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        -0.36846242536241813,
+        -0.45484188942675086
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.14150000520050526,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        -1.3032061047283996,
+        -1.6087196039165013
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.2122500078007579,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        -2.548265643016044,
+        -3.1456612127835006
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.2830000104010105,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        -3.847675645143446,
+        -4.749694785341995
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.3537500130012632,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        -4.945470716028704,
+        -6.104848390906233
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.4245000156015158,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        -5.58568546058991,
+        -6.895150098790462
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.4952500182017684,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        -5.525445785533344,
+        -6.882046917894145
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.566000020802021,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        -4.78201489418188,
+        -6.311668604243181
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.6367500234022737,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        -3.609229009560699,
+        -5.411878666905699
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.7075000260025264,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        -2.2693688421256217,
+        -4.3839052645085435
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.7782500286027789,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        -1.0247151023324719,
+        -3.4289765556785547
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.8490000312030316,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        -0.13754850063705407,
+        -2.7483206990425644
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.9197500338032842,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        0.1226249980630063,
+        -2.5316594714512726
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 0.9905000364035368,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        -0.7442375162731284,
+        -2.3240894728196673
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 1.0612500390037896,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        -2.5840961715857893,
+        -1.883535806869463
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_left2",
+      "age": 1.132000041604042,
+      "life": 1.132000041604042,
+      "seed": 419395,
+      "random": 0.83,
+      "expected": [
+        -4.92500671643422,
+        -1.3230053991576745
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.053250001035630705,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        -0.057731509584253174,
+        0.12713120190142815
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.10650000207126141,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        -0.21136282728797304,
+        0.46544444210641467
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.1597500031068921,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        -0.4315491365375996,
+        0.9503191723660174
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.21300000414252282,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        -0.6889456207595746,
+        1.5171348444312978
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.2662500051781535,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        -0.9542074633803372,
+        2.1012709100533047
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.3195000062137842,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        -1.197989847826329,
+        2.638106820983103
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.3727500072494149,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        -1.3909479575239905,
+        3.063022028971745
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.42600000828504564,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        -1.5037369758997616,
+        3.3113959857702886
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.47925000932067635,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        -1.566154120176075,
+        3.2338586655154193
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.532500010356307,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        -1.9343367994624745,
+        2.2924678141979222
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.5857500113919377,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        -2.5886783946760876,
+        0.6194092320710147
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.6390000124275684,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        -3.427128609747028,
+        -1.5243889587694246
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.6922500134631991,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        -4.347637148605413,
+        -3.877998636227509
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.7455000144988299,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        -5.24815371518136,
+        -6.180491678207371
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.7987500155344606,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        -6.02662801340498,
+        -8.17093996261311
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.8520000165700913,
+      "life": 0.8520000165700913,
+      "seed": 38083,
+      "random": 0.13,
+      "expected": [
+        -6.581009747206393,
+        -9.588415367348857
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.061750001795589926,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        -0.007066522766480487,
+        0.053084897081835565
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.12350000359117985,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        -0.025451188997232487,
+        0.1911935747150138
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.18525000538676978,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        -0.05093164558922192,
+        0.38260701248104284
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.2470000071823597,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        -0.07928553943941481,
+        0.5956061899614311
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.30875000897794963,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        -0.10629051744477697,
+        0.7984720867376853
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.37050001077353956,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        -0.12772422650227433,
+        0.9594856823913144
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.4322500125691295,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        -0.1393643135088728,
+        1.0469279565038265
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.4940000143647194,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        -0.15073738549679894,
+        0.9636354206011666
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.5557500161603093,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        -0.20215471209058175,
+        0.515156443559611
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.6175000179558993,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        -0.2835502587427008,
+        -0.19480251223515585
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.6792500197514892,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        -0.3802402606664146,
+        -1.0381647798902078
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.7410000215470791,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        -0.47754095307498096,
+        -1.8868536925126171
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.802750023342669,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        -0.560768571181659,
+        -2.612792583209464
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.864500025138259,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        -0.615239350199707,
+        -3.08790478508782
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.926250026933849,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        -0.6251071041984266,
+        -3.205539820794898
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.9880000287294388,
+      "life": 0.9880000287294388,
+      "seed": 38083,
+      "random": 0.47,
+      "expected": [
+        -0.5650756961321132,
+        -3.2558766386082065
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.07075000260025263,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        0.11347439055640016,
+        -0.13710548946863313
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.14150000520050526,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        0.4013449088003497,
+        -0.48492518793891803
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.2122500078007579,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        0.7847825745939754,
+        -0.9482139405074211
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.2830000104010105,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        1.1849584077993998,
+        -1.4317265922707134
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.3537500130012632,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        1.5230434282787515,
+        -1.8402179883253673
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.4245000156015158,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        1.7202086558941538,
+        -2.078442973767951
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.4952500182017684,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        1.879080206658372,
+        -1.9125585783338115
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.566000020802021,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        2.6561195870189507,
+        -0.822455930505631
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.6367500234022737,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        3.8819239323630694,
+        0.8972156799072606
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.7075000260025264,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        5.28235553452711,
+        2.8618705432333247
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.7782500286027789,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        6.583276685347462,
+        4.6869229498010245
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.8490000312030316,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        7.510549676660523,
+        5.987787189938845
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.9197500338032842,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        7.784219120711176,
+        6.396271176773964
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 0.9905000364035368,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        6.966929060507271,
+        6.506494934121774
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 1.0612500390037896,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        5.2322846776910055,
+        6.740437607410348
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/line_right2",
+      "age": 1.132000041604042,
+      "life": 1.132000041604042,
+      "seed": 38083,
+      "random": 0.83,
+      "expected": [
+        3.0252415901302188,
+        7.0380902935066025
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.047562500648200515,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        -0.000021729129824172197,
+        -0.0006693977723935011
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.09512500129640103,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        -0.00008664004483140704,
+        -0.0026690738876249324
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.14268750194460156,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        -0.0001943180333380415,
+        -0.005986252542768784
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.19025000259280206,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        -0.00034434838365280746,
+        -0.010608157934899545
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.23781250324100256,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        -0.0005363163840901406,
+        -0.016522014261087903
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.2853750038892031,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        -0.0007698073229587726,
+        -0.023715045718408354
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.3329375045374036,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        -0.0010444064885712383,
+        -0.03217447650393918
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.3805000051856041,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        -0.0013596991692419729,
+        -0.04188753081475108
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.4280625058338046,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        -0.0017152706532797086,
+        -0.05284143284791663
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.4756250064820051,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        -0.0021107062289969798,
+        -0.06502340680051223
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.5231875071302057,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        -0.002545591184704419,
+        -0.07842067686961238
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.5707500077784062,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        -0.00301951080871266,
+        -0.09302046725228584
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.6183125084266067,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        -0.0035320503893380402,
+        -0.10881000214561283
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.6658750090748072,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        -0.004082795214887389,
+        -0.12577650574666593
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.7134375097230077,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        -0.004671330573677045,
+        -0.14390720225251394
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.7610000103712082,
+      "life": 0.7610000103712082,
+      "seed": 856459,
+      "random": 0.13,
+      "expected": [
+        -0.005297241754011935,
+        -0.1631893158602351
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.04118750039488077,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        -0.000025298952816001812,
+        -0.0007793714151245398
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.08237500078976154,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        -0.00010091717934837851,
+        -0.003108901994943356
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.1235625011846423,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        -0.0002264367317266377,
+        -0.006975716241088835
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.16475000157952308,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        -0.00040143966207733617,
+        -0.01236693865521992
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.20593750197440386,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        -0.0006255080225240804,
+        -0.0192696937389808
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.2471250023692846,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        -0.0008982238651993283,
+        -0.027671105994018615
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.28831250276416537,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        -0.0012191692422266864,
+        -0.03755829992198641
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.32950000315904615,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        -0.0015879262057297608,
+        -0.04891840002452542
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.37068750355392693,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        -0.002004076807838059,
+        -0.061738530803285736
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.4118750039488077,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        -0.0024672031006810887,
+        -0.07600581675991745
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.45306250434368844,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        -0.002976887136385407,
+        -0.09170738239607065
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.4942500047385692,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        -0.003532710967071669,
+        -0.1088303522133807
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.53543750513345,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        -0.004134256644875284,
+        -0.12736185071350942
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.5766250055283307,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        -0.004781106221919858,
+        -0.14728900239809814
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.6178125059232116,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        -0.005472841750328997,
+        -0.16859893176879986
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.6590000063180923,
+      "life": 0.6590000063180923,
+      "seed": 856459,
+      "random": 0.47,
+      "expected": [
+        -0.006209045282232209,
+        -0.1912787633272558
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        0,
+        0
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.03443750012665987,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        -0.000025699366505061623,
+        -0.0007917067472212317
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.06887500025331975,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        -0.0001025609170992575,
+        -0.003159539751503987
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.10331250037997962,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        -0.00023022982837753343,
+        -0.007092568156770428
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.1377500005066395,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        -0.0004083512769476919,
+        -0.012579861106964144
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.17218750063329935,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        -0.0006365704394132499,
+        -0.01961048774600301
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.20662500075995924,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        -0.00091453249238201,
+        -0.028173517217830613
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.24106250088661912,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        -0.001241882612457489,
+        -0.038258018666369124
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.275500001013279,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        -0.0016182659762346327,
+        -0.049853061235544976
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.30993750113993884,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        -0.0020433277603341005,
+        -0.06294771406928892
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.3443750012665987,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        -0.002516713141355124,
+        -0.07753104631154452
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.3788125013932586,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        -0.0030380672958926487,
+        -0.0935921271062254
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.4132500015199185,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        -0.0036070354005587626,
+        -0.11112002559727512
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.44768750164657833,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        -0.004223262631952697,
+        -0.13010381092861156
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.48212500177323825,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        -0.004886394166690827,
+        -0.15053255224417403
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.516562501899898,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        -0.005596075181368096,
+        -0.1723953186878933
+      ]
+    },
+    {
+      "path": "panel_entry/horizon_track_front/particle_star/mid_cartoon",
+      "age": 0.551000002026558,
+      "life": 0.551000002026558,
+      "seed": 856459,
+      "random": 0.83,
+      "expected": [
+        -0.006351950852588021,
+        -0.19568117940368718
+      ]
+    }
+  ]
+}

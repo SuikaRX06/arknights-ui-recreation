@@ -1,0 +1,15 @@
+{
+  "name": "orange-ui-study",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "engines": {"node": ">=22"},
+  "description": "Arknights event UI motion reconstruction study",
+  "scripts": {
+    "start": "node server.mjs",
+    "release": "node tools/build-release.mjs",
+    "check": "node --check app.js && node --check chapter-tabs.js && node --check scene-transition.js && node --check native-scene.js && node --check road-renderer.js && node --check particles.js && node --check bubble-motion.js && node --check ex-snow-motion.js && node --check road-noise.js && node --check particle-math.js && node --check gradient-noise.js && node --check particle-emitter.js && node --check material-effects.js && node --check frame-cache.js && node --check shader-math.js && node --check trail-renderer.js && node --check map-drag.js && node --check motion-profile.js && node --check server.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "type": "module"
+}
